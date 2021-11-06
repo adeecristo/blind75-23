@@ -1,6 +1,4 @@
 # blind75-23
-Leetcode Blind 75 #23: Word Search
+Leetcode Blind 75 Solutions
 
-https://leetcode.com/problems/word-search/
-
-Solution results: https://leetcode.com/submissions/detail/582472635/
+https://leetcode.com/list/xi4ci4ig/
